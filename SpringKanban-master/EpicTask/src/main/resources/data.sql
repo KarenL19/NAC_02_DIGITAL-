@@ -1,1 +1,1 @@
-INSERT INTO users (name, email, pass) VALUES ('Arthur pereira machado', 'arthurpereiramachado01@gmail.com', '987654321');
+INSERT INTO users (name, email, pass) VALUES ('Karen Lais Martins Pontes', 'ponteskarenklp82@gmail.com', '36094536');

@@ -1,1 +1,0 @@
-INDEX VERSION 1.131+C:\Users\karen\OneDrive\Área de Trabalho\Fiap\2°ANO\Nac01Spring\.metadata\.plugins\org.eclipse.jdt.core
